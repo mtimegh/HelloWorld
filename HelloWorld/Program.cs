@@ -22,6 +22,9 @@ namespace HelloWorld
             Console.WriteLine(addResult.ToString());
             Console.WriteLine(subtractResult.ToString());
 
+            Console.WriteLine("Taki sobie program");
+
+
             
         }
     }

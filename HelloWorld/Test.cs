@@ -8,5 +8,6 @@ namespace HelloWorld
 {
     internal class Test
     {
+        private int zmienna = 0;
     }
 }
